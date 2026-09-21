@@ -1,5 +1,5 @@
 # 03-security-platform
-Soluções e padrões de Cyber Defense, gestão de identidades, criptografia e conformidade LGPD/OWASP.
+### *Soluções e padrões de Cyber Defense, gestão de identidades, criptografia e conformidade LGPD/OWASP.*
 ---
 Projetos de desenvolvimento: Implementação de algoritmos criptográficos, hashing seguro (Argon2id) e controle de acessos.
 
